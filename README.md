@@ -35,4 +35,4 @@ If you use the data or code, please cite the relevant data providers and acknowl
 
 ---
 
-*Honours project by [Phemelo Rutlokoane], [University of the western Cape], [2025].*
+*Honours project by Phemelo Rutlokoane, University of the western Cape, 2025.*
